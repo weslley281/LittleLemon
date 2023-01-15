@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">Little Lemon</string>
-    <string name="order">Little Lemon</string>
+    <string name="litle_lemon">Little Lemon</string>
+    <string name="order">Order</string>
 </resources>
